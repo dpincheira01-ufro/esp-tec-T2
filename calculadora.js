@@ -14,7 +14,7 @@ class Calculadora {
     multiplicar(num1, num2) {
         return num1 * num2;
     }
-    inverso(num1) {
+    inverso(num1, num2) {
         return num1 * num2 *-1;
     }
 
